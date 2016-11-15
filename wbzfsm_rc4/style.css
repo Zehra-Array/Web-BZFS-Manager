@@ -1,0 +1,18 @@
+/* Web BZFS Manager Style Definitions
+* (c) 2008 Cobra_Fast (WTWRP Team Leader)
+* Evaluated and improved by WTWRP Team
+* see http://wtwrp.doenemeier.de/ for more information about WTWRP and Cobra_Fast's work
+*/
+
+BODY, DIV, TD, FIELDSET {
+ font-family: Verdana, DejaVu Sans;
+ font-size: 10pt;
+} LEGEND {
+ font-family: Verdana, DejaVu Sans;
+ font-size: 10pt;
+ font-weight: bold;
+} BODY {
+ background: #c8e2ff url(img/cnt_bg.jpg) top left no-repeat fixed;
+} FIELDSET {
+ border: 1px solid #888888;
+}

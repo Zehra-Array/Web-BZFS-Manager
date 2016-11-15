@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "BZFS Webadministration"
+AuthUserFile /opt/lampp/htdocs/bzflag/webbzadmin/.htusers
+require valid-user
